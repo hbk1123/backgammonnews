@@ -1,0 +1,14 @@
+# デフォルトですべてを無視
+*
+*/
+!*/
+
+# プロジェクトファイルのみ許可
+!.gitignore
+!TODO.md
+!research/
+!research/**
+!flows/
+!flows/**
+!post_templates/
+!post_templates/**

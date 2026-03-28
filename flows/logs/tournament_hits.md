@@ -12,3 +12,9 @@
 ---
 
 <!-- 調査結果はここから下に追記 -->
+
+### 2026-03-28 (Tier1)
+- **JBS** (https://backgammon.or.jp/)：取得エラー（HTTP 403）
+- **WBIF** (https://www.wbif.net/)：取得エラー（HTTP 403）
+- **IBF** (https://i-bg-federation.com/)：取得エラー（HTTP 403）
+- **INBC** (https://inbcgammon.wiki.fc2.com/)：取得エラー（HTTP 403）

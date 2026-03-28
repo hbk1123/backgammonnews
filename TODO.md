@@ -12,7 +12,7 @@
 - [x] レビュー情報収集フロー（YouTube・Reddit・Twitter）→ flows/review_flow.md
 
 ## フェーズ3：投稿テンプレートの作成
-- [x] トーナメント速報テンプレート → templates/tournament_news.md
-- [x] イベント告知テンプレート → templates/event_announcement.md
-- [x] グッズ紹介テンプレート → templates/goods_review.md
-- [x] 週次・月次まとめテンプレート → templates/weekly_monthly_summary.md
+- [x] トーナメント速報テンプレート → post_templates/tournament_news.md
+- [x] イベント告知テンプレート → post_templates/event_announcement.md
+- [x] グッズ紹介テンプレート → post_templates/goods_review.md
+- [x] 週次・月次まとめテンプレート → post_templates/weekly_monthly_summary.md

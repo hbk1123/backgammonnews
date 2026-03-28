@@ -36,6 +36,7 @@
 | Legacy Boards | https://legacyboardsbackgammon.com/ | 要確認 | 米国内のみ | ⬜ 四半期 |
 | PRIMO | https://primobg.com/ | $1,495〜$1,750 | 要確認 | ⬜ 四半期 |
 | Backgammon Travel Boards | https://backgammontravelboards.com/ | £300 | 要確認 | ⬜ 四半期 |
+| Bone Club | https://www.boneclub.com/ | 要確認 | 要確認 | ⬜ 四半期 |
 | Crisloid（アタッシェ） | https://www.crisloid.com/product-category/backgammon/attache-backgammon/ | $25〜$350+ | 要確認 | ⬜ 四半期 |
 | Yenigün | https://www.yenigunbackgammon.com/ | 要確認 | 要確認 | ⬜ 四半期 |
 

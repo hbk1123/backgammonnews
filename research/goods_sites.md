@@ -54,6 +54,7 @@
 | Legacy Boards | https://legacyboardsbackgammon.com/ | 米国・ノースカロライナ | 要確認 | 天然木・本革の職人工房製、カスタム対応 | 米国内のみ |
 | PRIMO | https://primobg.com/ | 米国・マイアミ | $1,495〜$1,750 | 高級カスタムビルド、イタリア製チェッカー・認定ダイス付属 | 要確認 |
 | Backgammon Travel Boards | https://backgammontravelboards.com/ | 不明 | £300 | ロールアップ式旅行用ボード専門、ハンドメイド | 要確認 |
+| Bone Club | https://www.boneclub.com/ | 英国 | 要確認 | 2014年創業、ウォルナット・黒檀・ガンベッタレザー使用、アパレルも展開 | 要確認 |
 
 ### クロックメーカー
 

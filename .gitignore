@@ -5,6 +5,7 @@
 
 # プロジェクトファイルのみ許可
 !.gitignore
+!CLAUDE.md
 !TODO.md
 !research/
 !research/**

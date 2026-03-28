@@ -12,3 +12,5 @@
 !flows/**
 !post_templates/
 !post_templates/**
+!drafts/
+!drafts/**

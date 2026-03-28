@@ -31,6 +31,7 @@
 | IBF（International Backgammon Federation） | https://i-bg-federation.com/ | Asian Grand Prix等・アジア・旧ソ連圏中心 | 記載なし（拡大中） |
 | WBF（Worldwide Backgammon Federation） | https://www.wbf.net/ | 欧州・地中海圏大会 | 記載なし |
 | WBA（World Backgammon Association） | https://www.world-backgammon-association.com/ | 欧州大会・BMABシリーズ | 過去あり（Michi Kageyama） |
+| sportnardy.info（ロシアバックギャモン連盟情報システム） | https://sportnardy.info/ | Asian Grand Prix・旧ソ連圏・中央アジア大会の結果・統計 | あり（Mizutani Sam等） |
 
 ---
 

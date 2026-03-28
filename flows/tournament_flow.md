@@ -9,7 +9,7 @@
 | ティア | チェック頻度 | 対象サイト |
 |--------|------------|-----------|
 | **Tier 1** | 毎週 | JBS、WBIF、IBF、INBC |
-| **Tier 2** | 月2回（1日・15日） | Japan Open、大阪オープン、UKBGF、USBGF、WBA、WBF、Chicago Open、WBGF |
+| **Tier 2** | 月2回（1日・15日） | Japan Open、大阪オープン、UKBGF、USBGF、WBA、WBF、Chicago Open、WBGF、sportnardy.info |
 | **Tier 3** | 月1回（1日） | FmGammon Calendar、Chicago Point、WBGF結果DB |
 
 ---
@@ -86,6 +86,7 @@
 - WBF: https://www.wbf.net/
 - Chicago Open: https://chicagoopenbg.com/
 - WBGF: https://wbgf.info/
+- sportnardy.info: https://sportnardy.info/
 
 対象サイト（Tier 3）：
 - FmGammon Calendar: https://www.fmgammon.com/backgammon-tournament-calendar.php

@@ -8,7 +8,7 @@
 
 | ティア | チェック頻度 | 対象サイト |
 |--------|------------|-----------|
-| **Tier 1** | 毎週 | JBS、WBIF、IBF |
+| **Tier 1** | 毎週 | JBS、WBIF、IBF、INBC |
 | **Tier 2** | 月2回（1日・15日） | Japan Open、大阪オープン、UKBGF、USBGF、WBA、WBF、Chicago Open、WBGF |
 | **Tier 3** | 月1回（1日） | FmGammon Calendar、Chicago Point、WBGF結果DB |
 
@@ -58,6 +58,7 @@
 - JBS: https://backgammon.or.jp/
 - WBIF: https://www.wbif.net/
 - IBF: https://i-bg-federation.com/
+- INBC: https://inbcgammon.wiki.fc2.com/
 
 抽出項目：
 - 大会名

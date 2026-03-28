@@ -10,6 +10,7 @@
 |---|---|---|
 | 日本バックギャモン協会（JBS） | https://backgammon.or.jp/ | 五大タイトル戦・例会カレンダー・レーティング |
 | JBSレーティング | https://rating.backgammon.or.jp/ | 国内レーティング常時更新 |
+| INBC（Internet Backgammon Club） | https://inbcgammon.wiki.fc2.com/ | 国内オンライン大会・魔王戦・名人戦・チャンピオンズカップ |
 | バックギャモンフェスティバル（Japan Open） | https://festival.backgammon.or.jp/ | Japan Open公式（毎年5月、東京） |
 | 大阪オープン | https://open.backgammon.osaka/ | 大阪オープン公式（毎年3月） |
 

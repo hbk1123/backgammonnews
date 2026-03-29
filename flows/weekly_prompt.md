@@ -105,6 +105,7 @@ WebSearch「バックギャモン 例会 ねこまど OR 関内 OR 代官山 OR 
 
 RUN_GOODS_MONTHLY が true の場合のみ実行：
 
+### 5-1: 全ショップ通常調査（新製品・セール情報）
 - JBS SHOP: https://backgammon.theshop.jp/
 - GammonVillage: https://www.gammonvillage.com/backgammon-shop/
 - BGShop: https://bgshop.com/
@@ -114,6 +115,15 @@ RUN_GOODS_MONTHLY が true の場合のみ実行：
 - Gammon City: https://www.gammoncity.com/
 
 抽出項目：新製品・セール・入荷・廃番情報
+
+### 5-2: フィーチャーショップ深掘り調査
+今月のフィーチャーショップを goods_flow.md のローテーション表から確認し、以下を徹底調査：
+- 全商品カテゴリとラインナップ（できる限り価格付きで列挙）
+- ブランドの特徴・強み・創業背景
+- 日本への発送条件・送料・関税の扱い
+- 編集部おすすめ商品（初心者向け・上級者向け等）
+
+下書きの「ショップ情報」セクションでフィーチャーショップは他より2〜3倍の分量で詳細記載する。
 
 ---
 

@@ -92,6 +92,8 @@
 - FmGammon Calendar: https://www.fmgammon.com/backgammon-tournament-calendar.php
 - Chicago Point: http://www.chicagopoint.com/
 - WBGF結果DB: https://results.wbgf.info/tmanager
+- なかよし村とゲームの木（mixi）: https://mixi.jp/view_community.pl?id=207561
+  ※ 年2回のみ確認：1月（フェアリーギャモン大会・2月開催）・5月（バックギャモン大会・6月開催）
 
 抽出項目・記録方法はTier 1と同様。
 ```

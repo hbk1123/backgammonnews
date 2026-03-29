@@ -15,6 +15,17 @@
 | JBS Twitter/X | https://x.com/JBS_Backgammon | 例会告知・速報。WebSearch `from:JBS_Backgammon 例会` で検索 |
 | JBS Instagram | https://www.instagram.com/jbs_backgammon/ | イベント写真・告知 |
 
+### 年次大会（非JBS主催）
+
+| 名称 | 情報源 | 開催時期 | 備考 |
+|------|--------|---------|------|
+| なかよし村とゲームの木 バックギャモン大会 | https://mixi.jp/view_community.pl?id=207561 | 毎年6月 | 年1回 |
+| なかよし村とゲームの木 フェアリーギャモン大会 | https://mixi.jp/view_community.pl?id=207561 | 毎年2月 | 年1回・フェアリーギャモン（変形ルール）|
+
+※ 調査タイミング：1月（フェアリーギャモン告知確認）・5月（バックギャモン大会告知確認）
+
+---
+
 ### 非公認例会・非JBS系クラブ
 
 | クラブ名 | 主な情報源 | 開催概要 |

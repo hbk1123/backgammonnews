@@ -79,7 +79,7 @@
 
 対象サイト（Tier 2）：
 - Japan Open: https://festival.backgammon.or.jp/
-- 大阪オープン: https://open.backgammon.osaka/
+- 大阪オープン: https://open.backgammon.osaka/  ※毎年3月開催のみ。3月以外は調査スキップ可
 - UKBGF: https://ukbgf.com/
 - USBGF: https://usbgf.org/
 - WBA: https://www.world-backgammon-association.com/

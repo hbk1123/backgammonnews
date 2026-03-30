@@ -13,6 +13,53 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-03-30 - トーナメント週次調査（Tier1）
+
+#### JBS
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - BACKGAMMON FESTIVAL 2026：5月3〜5日、東京・大崎ブライトコアホール（継続告知）
+    - 第54回日本選手権：2ステージ制（リーグ＋ノックアウト）・3敗失格制
+    - 初級戦：JBS会員無料（Sam Mizutani氏協賛）、ビジター4,000円、レーティング1,025以上不可
+    - 参加申込：エントリー申請＋参加費支払いの両方を完了要
+  - U25 Morgan's Cup 第1回：4月4日（土）20:00〜（オンライン）
+  - U25 Morgan's Cup 第2回：4月11日（土）20:00〜（オンライン）
+  - JBS SHOP 価格改定：4月1日（水）より一部商品値上げ
+  - 新刊書籍：「Backgammon Grandmaster Match: Michy vs Mochy」2026年3月9日発行（2025年LAオープン、Kageyama vs Mochizuki の11点マッチ収録）
+
+#### WBIF
+- WebFetch 403 → WebSearch補完（前回2026-03-29ログ引継ぎ）
+  - 53. WBIF Open：締切**2026年4月1日**（明後日！）、登録者156名
+  - Egypt Tourney7 2026：締切2026年4月6日
+  - WBIF Champions Cup 2026：締切2026年4月8日、登録者16名
+  - WBIF World Cup 2026：締切2026年4月8日、登録者14名
+  - 8th Rookie Special：締切2026年4月20日、登録者40名
+  - WBIF World Speed Championship 2026：締切2026年5月8日、登録者139名
+  - SLAM: WBF 8th Merit Grand Prix：4月14〜18日、Splendid Hotel、モンテネグロ・ブドヴァ
+
+#### IBF / Asian Grand Prix（**最終結果確認済み**）
+- IBF Asian Grand Prix 1st Series：3月22〜29日、Axelon Center、タシュケント（ウズベキスタン）
+  - **メイン（154名参加）1位：Mochy（望月裕一）、2位：Tobias Hellwag（ドイツ）** ✅ 確定
+  - 3/4位：Amirali Asadi（イラン）/ Khachik Melikyan（アルメニア）
+  - Mega Bonanza #1（32名）1位：Mochy（望月裕一）、2位：Michael Larsen（デンマーク）✅ 確定
+  - Masters Cup（87名）1位：Christoph Wagener（ドイツ）※日本人入賞なし
+  - Blitz（128名）1位：Nodar Gagua（ジョージア）※日本人入賞なし
+  - 約500名・50か国参加、賞金総額50万ドル（世界最大規模）
+
+#### INBC
+- WebFetch 403、WebSearch新情報なし → 前回（2026-03-29）ログ引継ぎ
+  - シーズン23開催中、現タイトルホルダー変化なし
+
+#### sportnardy.info
+- WebFetch 403、competition-statistics 2026サイト検索もヒットなし
+  - competition-contacts/577 ページのURLを確認（JSレンダリングのため取得不可）
+  - 変化なし（特筆なし）
+
+#### 日本人選手 追加WebSearch
+- Mochy（望月裕一）：IBF Asian Grand Prix Main Event優勝（上記参照）+ Mega Bonanza #1優勝
+- Michi Kageyama（景山美智）：2026年3月時点の新情報なし（NY Metropolitan Open等で複数入賞実績あり）
+- Sam Mizutani：BG Festival 2026初級戦スポンサー、NY Metropolitan Open Super Jackpot 1位・Open Jackpot 3位（時期詳細不明）
+- Akiko Yazawa：カリフォルニア州選手権 Super Jackpot 3位・Juniors Under55 2位（時期詳細不明）
+
 ### 2026-03-29 - トーナメント週次調査（Tier1）
 
 #### JBS

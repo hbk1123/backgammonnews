@@ -4,6 +4,41 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-04-06 - グッズ月次調査（D=6、月初実行）
+
+#### JBS SHOP
+- WebFetch 403 → WebSearch補完（https://backgammon.theshop.jp/）
+  - **価格改定：4月1日より実施済み**（原材料費・物流コスト高騰のため一部値上げ）
+  - 前回ログのセール情報（3/29）からの変化：確認不可（直接サイト要確認）
+  - 新刊書籍：「Backgammon Grandmaster Match: Michy vs Mochy」3月9日発行（引継ぎ）
+
+#### Backgammon Galaxy Shop
+- WebSearch補完（https://shop.backgammongalaxy.com/）
+  - Earth Board（Tournament Size）：$1,250 - UBC・世界選手権使用実績あり
+  - Monte Carlo Board（Tournament Size）：$1,250
+  - Atlas Board（トーナメントサイズ携帯型ロールアップ）：$300
+  - Nova Tournament Backgammon Board（入門〜中級向けトーナメントボード）：前回$400
+  - アクセサリー：Series Checkers（$25）、Doubling Cube（$12.50）継続中
+  - $150以上で米国・EU向け送料無料
+
+#### GammonVillage
+- WebSearch補完（https://www.gammonvillage.com/backgammon-shop/）
+  - 前回(3/29)セール情報継続中（直接確認要）
+  - 21インチ トーナメントセット $395→$295（送料無料）（継続中の可能性）
+  - 創業27周年、64カ国配送対応
+
+#### BGShop
+- WebFetch 403 → 前回ログ引継ぎ
+  - 特記新情報なし
+
+#### Ace Point Backgammon
+- WebFetch 403 → 前回ログ引継ぎ
+  - AP Match Master Scoreboard各種継続販売中
+
+#### その他（WebSearch）
+- ArtGammon（artgammon.com）：カスタムラグジュアリーボード継続提供
+- CustomBackgammon（custombackgammon.com）：カスタムロゴ入りボード、無料国際配送継続
+
 ### 2026-03-29 - グッズ月次調査（テスト実行）
 
 #### JBS SHOP

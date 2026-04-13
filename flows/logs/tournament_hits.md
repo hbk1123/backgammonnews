@@ -13,6 +13,53 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-04-13 - トーナメント週次調査（Tier1）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **BACKGAMMON FESTIVAL 2026 / 第54回日本選手権＆中級戦2026**（継続）
+    - 日時：5月3〜5日（月祝〜水祝）、東京・大崎ブライトコアホール
+    - **事前申込締切：4月28日（火）23:59** ← 残り2週間、要注意
+  - **第7期賽王戦オールカマーシリーズ2026 決勝**
+    - Day1：4月11日（土）13:00〜（開催済み、結果WebSearch未確認）
+    - Day2：4月12日（日）13:00〜（開催済み、結果WebSearch未確認）
+  - **U25 Morgan's Cup 第2回**：4月11日（土）20:00〜（開催済み、結果未確認）
+  - **埼玉例会**：4月4日（土）活動報告 ← 先週分報告済み
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch新情報なし（前回ログ確認のみ）
+  - WBIF Champions Cup 2026：締切4/8（**締切済み**）、登録16名
+  - WBIF World Cup 2026：締切4/8（**締切済み**）、登録14名
+  - **8th Rookie Special**：締切4/20（来週）、登録40名
+  - **WBF 8th Merit Grand Prix**：4月14〜18日、Splendid Hotel、モンテネグロ・ブドヴァ ← 今週開催中
+  - **WBIF World Speed Championship 2026**：締切5/8、登録139名
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch新情報なし
+  - Asian Grand Prix（タシュケント 3/23-29）：結果確定済み（前回ログ参照）
+  - 次回IBF大会：未発表
+
+#### INBC（Tier1）
+- WebFetch 403、WebSearch新情報なし → 前回ログ引継ぎ
+  - シーズン23継続中
+
+#### sportnardy.info（Tier1）
+- WebFetch 403、JavaScriptレンダリングのため直接取得不可
+- competition-participants/581 および competition-child/577 のページ確認（内容取得不可）
+- WebSearch補完：
+  - **Mega Bonanza #1**：**Mochy（望月裕一）優勝**、2位 Michael Larsen（デンマーク）✅
+  - **Super Jackpot**：**Sam Mizutani（水谷）優勝** ✅
+  - **Super Jackpot 3位**：Akiko Yazawa（矢沢）（Janette Hodgkinsonに準々決勝で敗退）✅
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- `Mochy OR Yazawa OR "Mizutani" backgammon tournament 2026 result` 実施
+  - Mochy：Mega Bonanza #1 優勝確認（sportnardy.info大会、詳細日時不明）
+  - Sam Mizutani：Super Jackpot 優勝確認（同上）
+  - Yazawa：Super Jackpot 3位確認
+  - Kageyama Michi：今週新情報なし
+
+---
+
 ### 2026-04-06 - トーナメント週次調査（Tier1 + Tier2 + Tier3）
 
 #### JBS（Tier1）

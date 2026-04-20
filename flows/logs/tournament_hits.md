@@ -13,6 +13,71 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-04-20 - トーナメント週次調査（Tier1 + Tier2）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **BACKGAMMON FESTIVAL 2026 / 第54回日本選手権＆中級戦2026**
+    - 日時：5月3〜5日（月祝〜水祝）、東京・大崎ブライトコアホール
+    - **事前申込締切：4月28日（火）23:59 ← 残り8日！**
+    - JBS会員は初級戦（Beginner Division）が**無料**（新情報）
+    - Backgammon Cafe いっぷく 飲食・グッズ出店決定（ダイスカップ・コマなど販売）
+  - U25 Morgan's Cup（第1回 4/5・第2回 4/12）：実施済み、結果WebSearch未確認
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **8th Rookie Special**：締切本日（4/20）、前回登録者40名
+  - **WBF 8th Merit Grand Prix**（4/14〜18、Splendid Hotel、モンテネグロ・ブドヴァ）：終了・詳細結果未取得（WebSearch不達）
+  - **WBIF World Speed Championship 2026**：締切5/8、登録者139名（継続）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 次回IBF大会：未発表、継続監視
+  - Asian Grand Prix結果（前回確定情報）引継ぎ
+
+#### INBC（Tier1）
+- WebFetch 403、WebSearch新情報なし → 前回ログ引継ぎ
+
+#### sportnardy.info（Tier1）
+- WebFetch 403、site検索ヒットなし → 前回ログ引継ぎ
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- `Mochy OR Yazawa OR "Mizutani" backgammon tournament 2026 result` 実施
+  - 今週新規大会結果：なし（全て前回ログ以前の情報）
+  - Michi Kageyama：今週新情報なし
+
+---
+
+#### Japan Open / Osaka Open（Tier2）
+- **Japan Open 2026**（= BACKGAMMON FESTIVAL 2026）：事前申込締切4/28、詳細上記JBSセクション参照
+- **大阪オープン2026**：3/7〜8終了済み（結果引継ぎ、詳細未取得）
+
+#### UKBGF（Tier2）
+- WebFetch 403 → WebSearch補完
+  - London Intermediates（4/11〜12）：終了済み、結果未取得
+  - **Harrogate Open**：5月16日（土）、Manhattan Club、Harrogate
+  - **UK Open/Intermediate**：5月22〜25日、Woodland Grange、Leamington Spa
+
+#### USBGF - Cherry Blossom Backgammon Championship（Tier2）
+- 開催：4月15〜19日、Hyatt Regency at Dulles Airport、Herndon, Virginia
+- 結果（WebSearch確認）：
+  - Martha Washington Masters Jackpot（64名）：**Chris Trencher (NY) 優勝**、2位 Kit Woolsey (CA)
+  - Susan B. Anthony Open Jackpot（32名）：**David Kettler (TX) 優勝**、2位 Avi Cohen (FL)
+  - Classic Super Jackpot：**Greg Merriman (MI) 優勝**、2位 Michael Urban (Germany)
+  - Women's Cup：**Lynn Ehrlich (FL) 優勝**
+  - Super Speedgammon：**Rory Pascar (IL) 優勝**
+  - 日本人選手入賞なし
+  - ※米国代表選考最終締め切り大会（National Teamクライテリア対象）
+
+#### Chicago Open（Tier2）
+- 5月20〜25日（変更なし）、Hyatt Centric Chicago O'Hare、$90登録料
+
+#### WBGF（Tier2）
+- **WBGF World Teams Championship 2026**：8月24〜26日、Mercure London Earls Court（変更なし）
+- **WBGF World Individual Championship 2026**：8月27〜30日（同会場）
+
+---
+
 ### 2026-04-13 - トーナメント週次調査（Tier1）
 
 #### JBS（Tier1）

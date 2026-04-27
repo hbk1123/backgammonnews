@@ -13,6 +13,47 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-04-27 - トーナメント週次調査（Tier1 のみ）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **BACKGAMMON FESTIVAL 2026（第54回日本選手権＆中級戦2026）**
+    - 日時：5月3〜5日（日祝〜火祝）、会場：大崎ブライトコアホール（東京都品川区）
+    - **事前申込締切：明日 4月28日（火）23:59 ← ラストコール！**
+    - 優勝特典：WBGF World Team Championship 2026 日本代表選出、第7回賽王全星2026招待等
+    - 賞品確定日：2026年4月22日
+  - **第3回女王戦**：出場者募集開始（4/15〜）、締切 **5月14日（木）**（女性限定タイトル戦）
+  - U25 Morgan's Cup 第1回（4/5）・第2回（4/12）：実施済み
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 2026年4月直近のWBIF大会結果情報：取得不可
+  - 参考：WBGF World Individual Championship（London、2026年8月27〜30日）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **Asian Grand Prix 2026**（タシュケント・ウズベキスタン、3/23〜3/29）：先週以降の続報なし
+    - 新IBF会長が就任済み（Instagram動画で確認）
+
+#### INBC（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 有益な新着情報なし
+
+#### sportnardy.info（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 直近の検索ヒット大会：Georgian Grand Prix Backgammon Blitz（competition-results/891）
+  - 4月直近の大会ページ（competition-participants/581）：JavaScript必須のため詳細取得不可
+  - 日本人選手情報：検索ではヒットなし
+
+#### 今後の大会カレンダー（追加確認分）
+- **UBC Japan Qualifier**：4月30日〜5月3日
+- **18th International German Championship**：4月30日〜5月3日
+- **RotterGammon Monthly**：4月29日〜5月2日
+- **UKBGT St Albans Open**：4月26日（本日前後）
+- **Chicago Open（44th）**：5月20〜25日（Hyatt Centric Chicago O'Hare）
+- **WBGF World Teams Championship**：8月24〜26日（Mercure London Earls Court）
+- **WBGF World Individual Championship**：8月27〜30日（Mercure London Earls Court）
+
 ### 2026-04-20 - トーナメント週次調査（Tier1 + Tier2）
 
 #### JBS（Tier1）

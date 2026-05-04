@@ -13,6 +13,110 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-05-04 - トーナメント週次調査（Tier1 + Tier2 + Tier3、月初フル実行）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **BACKGAMMON FESTIVAL 2026 開催済み**（5月3〜5日、大崎ブライトコアホール）
+    - 第54回日本選手権：5月5日（月）16:30 決勝実施（**結果未発表**、公式SNS要確認）
+    - 第5回棋聖戦決勝：5月5日（月）12:00 実施
+    - 中級戦2026・初級戦：3日間にわたり実施
+    - UBC Japan 2026：決勝 **上田秀明（Hideaki Ueda）vs 池谷直樹（Naoki Iketani）** （YouTube動画確認）
+  - **第3回女王戦** & **第15回新鋭戦**：出場者募集中、締切 **5月14日（木）**
+  - 例会（5月予定）：5月9日（土）町家でギャモン（京都）
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 直近情報なし（前回ログ引継ぎ）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **Asian Grand Prix 1st Series（タシュケント 3/23-29）確定結果引継ぎ**
+    - Main Event（154名）：**Mochy（望月裕一）優勝** ✅（前回確定済み）
+    - Mega Bonanza #1（32名）：**Mochy 優勝**、2位 Michael Larsen（デンマーク）✅
+    - 賞金総額50万ドル、500名・50か国参加（世界最大規模）
+    - **Akiko Yazawa（矢沢）**：Asian Grand Prix Main Event Round 5 参加確認（YouTube動画）
+  - 次回IBF大会：未発表
+
+#### INBC（Tier1）
+- WebFetch 403、WebSearch新情報なし → 特筆なし
+
+#### sportnardy.info（Tier1）
+- WebFetch 403、site検索ヒットなし → 特筆なし（JSレンダリングのため継続取得不可）
+
+#### 日本人選手 追加WebSearch（Tier1共通 / Monte Carlo Open最終確認）
+- `Mochy OR Yazawa OR "Mizutani" backgammon tournament 2026 result` 実施
+  - **Monte Carlo Open（54th BWC）確定結果**（Chicago Point 2026結果ページより）：
+    - Championship（160名）：Joe Russell（米）優勝、**Hideaki Ueda（日本）2位** ✅
+    - Championship：**Junichi Tanaka（日本）2C（2ndコンソレーション）** ✅
+    - Intermediate：**Yamato Ohsaki（日本）優勝** ✅、Miho Oka MacLeod（日本）2C ✅
+    - Seniors：**Kenji Shimodaira（日本）3/4位タイ** ✅
+    - Mega Bonanza #1（32名）：**Mochy（望月裕一）優勝** ✅（IBF AGP＋MCO両方で優勝）
+    - Super Jackpot（32名）：**Sam Mizutani（水谷）優勝** ✅、**Akiko Yazawa（矢沢）3位** ✅
+    - Juniors Under 55（16名）：**Akiko Yazawa 2位** ✅
+    - Masters（182名）：**Sam Mizutani 12〜17位** ✅
+  - Michi Kageyama（景山美智）：今週新情報なし（UKBGF記事で世界ランク2位と確認）
+
+---
+
+#### Japan Open（Tier2）
+- **BACKGAMMON FESTIVAL 2026**（= Japan Open）：上記JBSセクション参照（5/3-5 終了）
+
+#### 大阪オープン（Tier2）
+- **大阪オープン2026**（第27回）：3月7〜8日開催済み（結果未取得）
+
+#### UKBGF（Tier2）
+- **UK Open 2026：参加受付中！**
+  - 日時：2026年5月22日（金）〜5月25日（月）
+  - 会場：Woodland Grange、Leamington Spa（英国）
+  - 内容：Warm-Up、Doubles、SpeedGammon、Super/Mega Jackpot、ライブ配信あり
+  - 宿泊：シングル£455（3泊朝昼夕食付）、ダブル£626（残室少）
+  - 注：WBGF World Teams Championship（8月ロンドン）との日程考慮で5月開催に変更
+
+#### USBGF（Tier2）
+- 2026年ABT（American Backgammon Tour）連戦記録：
+  - NYC Metropolitan Open（1/15-19）：Vlad Eydelman（WI）優勝
+  - Texas BC（2/3-8）：Benjamin Hugon（TX）優勝
+  - Atlanta BC（2/26-3/1）：Rory Pascar（IL）優勝
+  - Ohio State BC（3/26-29）：Kit Woolsey（CA）優勝
+  - Cherry Blossom BC（4/15-19）：Marty Storer（NH）優勝
+  - 次回：2026 USBGF Online Championship（日程未定、390名規模見込み）
+
+#### Chicago Open（Tier2）
+- **44th Chicago Open 2026：5月20〜25日（3週間後！）**
+  - 会場：Hyatt Centric Chicago O'Hare（Rivers Casino隣接）
+  - 形式：MoreSwiss ABT、Women's National Championship同時開催
+  - **注目：USA vs Japan Team Competition あり**（3本マッチ制・1本15点）
+  - 登録料：$90（Novice $40）
+  - 開幕：5月20日（水）17:00 登録開始、18:00 R1〜3
+
+#### WBA（Tier2）
+- WebSearch補完（https://www.world-backgammon-association.com/）
+  - **WBA認定大会（オレンジブロッサムシーズン）：5月13〜17日**（会場詳細不明、フロリダ方面か）
+  - **WBA認定大会（ポルトガル夏季大会）：6月17〜21日**（ポルトガル）
+  - Istanbul ISTAVDER Anniversary Tournament：ftbgsystem.com掲載中
+
+#### WBGF（Tier2）
+- **WBGF World Teams Championship 2026**：8月24〜26日、Mercure London Earls Court
+- **WBGF World Individual Championship 2026**：8月27〜30日（同会場）
+  - UKBGF・USBGF・WBAが代表選考を継続実施中
+
+---
+
+#### FmGammon Calendar（Tier3）
+- WebFetch 403 → WebSearch確認（https://www.fmgammon.com/backgammon-tournament-calendar.php）
+  - 2026年カレンダー継続更新中、個別大会の詳細取得不可
+
+#### Chicago Point（Tier3）
+- WebFetch 403 → WebSearch補完（http://www.chicagopoint.com/results.html）
+  - 2026年国際大会結果ページ更新中（Monte Carlo Open・ABT各大会含む）
+  - 上記「日本人選手 追加WebSearch」に記載の結果を確認
+
+#### WBGF Results DB（Tier3）
+- WebFetch 403 → WebSearch確認（https://results.wbgf.info/tmanager）
+  - 米国ABT・WBIF・Swiss BA等の結果DB継続更新確認
+  - 個別結果閲覧は直接アクセス要
+
 ### 2026-04-27 - トーナメント週次調査（Tier1 のみ）
 
 #### JBS（Tier1）

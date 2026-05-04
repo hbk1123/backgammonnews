@@ -4,6 +4,41 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-05-04 - グッズ月次調査（D=4、月初実行）
+
+#### JBS SHOP（https://backgammon.theshop.jp/）
+- WebFetch 403 → WebSearch補完
+  - **Von Waldenblatt トーナメントボード**（JBS公式使用ボード）：3色展開（黒・青・茶）
+  - **Crisloid製トーナメントボード（日本選手権ロゴ入り）**：日本代表カラー（赤白デザイン）¥98,000前後
+  - **ELITE プレシジョンダイス（ノングレア）**：黒色、精度・視認性向上タイプ
+  - **Backgammon Galaxy Earth Board**：オーク木製トレイボックス付き（JBS経由で購入可能）
+  - JBSニュース（機関紙）も取り扱いあり
+
+#### Backgammon Galaxy Shop（https://shop.backgammongalaxy.com/）
+- WebSearch補完
+  - **The Earth Board**（Tournament Size）：$1,250（UBC・世界選手権使用実績）
+  - **The Monte Carlo Board**（Tournament Size）：$1,250
+  - **PRIME Backgammon Board**（フルトーナメント・旅行兼用セット）：新作登場
+  - **MEGA release**：精度サイコロ複数色・複数サイズ展開（新作）
+  - GM Zdenek Zizka コース2本：Galaxy Academyにて販売中
+  - $150以上で米国・EU向け送料無料
+
+#### GammonVillage（https://www.gammonvillage.com/backgammon-shop/）
+- WebSearch補完
+  - **Champion Class バックギャモンセット（2026新作）**：プロトーナメント向け、上質皮革＆木材使用
+  - 21インチトーナメントセット引続き展開中（セール価格継続の可能性）
+  - 500以上のモデル・64カ国配送対応
+
+#### Ace Point Backgammon（https://apbg.shop/）
+- WebSearch補完
+  - **AP Transparent Baffle Box（新型）**：マグネット式3分割アクリル、秒で収納
+  - **Tap N Set Touch デジタルクロック**：スマホで設定可能、カスタムケース付き
+  - AP Match Master Scoreboard：20色展開（$34.99〜$49.99）
+  - AP精度ダイス：10色・3サイズ展開（カジノ品質）
+
+#### BGShop / GammonLife
+- 特記新情報なし（継続ラインナップのみ）
+
 ### 2026-04-06 - グッズ月次調査（D=6、月初実行）
 
 #### JBS SHOP

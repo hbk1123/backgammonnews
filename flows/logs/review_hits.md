@@ -4,6 +4,38 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-05-04 - レビュー・コミュニティ情報月次調査（D=4、月初実行）
+
+#### Reddit r/backgammon
+- WebSearch補完（ドメインブロックのため直接アクセス不可）
+  - コミュニティは継続活発（具体的投稿内容取得不可）
+
+#### Backgammon Forums（https://www.backgammonforums.com/）
+- WebSearch補完
+  - **AIアンチチート「5POINT」**（WBIF導入）に関するスレッド活発
+  - **OpenGammon**：フィードバックスレッド継続（進捗確認中）
+  - Software & Equipment カテゴリ：eXtreme Gammon・BGBlitz・GNUbg・Galaxy比較議論継続
+
+#### BGonline.org Forums
+- 前回ログ引継ぎ（継続アクティブ、累計21万超メッセージ）
+
+#### Backgammon Galaxy YouTube（@BackgammonGalaxy）
+- WebSearch補完（https://www.youtube.com/@BackgammonGalaxy/videos）
+  - **Backgammon Asian Grand Prix 2026 Main Event Round 4（動画）** ← 新着
+  - **Backgammon Asian Grand Prix 2026 Main Event Round 5（動画）** ← 新着（矢沢 vs Peter Naguib）
+  - **Backgammon Asian Grand Prix 2026 Masters Cup Last 32（動画）** ← 新着
+  - 2026 Cherry Blossom Backgammon Championship Day 2 Stream（4月）
+  - Backgammon Stream 3/27/2026（継続配信）
+  - GM Zdenek Zizka コース配信開始（Galaxy Academy）
+
+#### JBS YouTube（@backgammonjbs9593）
+- **FINAL | UBC Japan 2026 ▸ Hideaki Ueda vs Naoki Iketani（動画）** ← 新着（Part 1/2）
+- バックギャモンフェスティバル2026の関連コンテンツ配信中
+
+#### UKBGF コンテンツ
+- **「Mr Michi's Mysterious Move's Magnitude」**：Michi Kageyama（世界ランク2位）に関する戦略記事公開
+- Michi＆Roland Herrera共著「Backgammon Odyssey」シリーズ（Opening Concepts 等）継続販売
+
 ### 2026-04-06 - レビュー・コミュニティ情報月次調査（D=6、月初実行）
 
 #### Reddit r/backgammon

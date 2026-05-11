@@ -13,6 +13,49 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-05-11 - トーナメント週次調査（Tier1のみ、D=11）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **BACKGAMMON FESTIVAL 2026 結果確認済み**（5月3〜5日、大崎ブライトコアホール）
+    - **第54回日本選手権（オープン部門）**：優勝 野尾貴弘（Takahiro No）、2位 上田秀明（Hideaki Ueda）、参加88名
+    - **2nd 東京オープン**：優勝 Masaya Furusho
+    - **UBC Tokyo Regional Contender**：1位 上田秀明（Hideaki Ueda）、2位 田中純一（Junichi Tanaka）
+  - **新規告知：ラスベガスチャレンジ２ 開催決定（5/17）**
+    - Las Vegas Open 2026（10月7〜12日）への招待をかけた第2回チャレンジ
+    - 詳細は https://backgammon.or.jp/ を参照
+  - **第3回女王戦・第15回新鋭戦**：出場者募集締切 5月14日（木）（※来週末注意）
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完（https://www.wbif.net/）
+  - 特筆すべき新着情報なし
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完（https://i-bg-federation.com/）
+  - タシュケント（ウズベキスタン）大会：2026年3月23〜29日 ← 開催済み（詳細結果不明）
+
+#### INBC（Tier1）
+- WebFetch 403 → WebSearch補完（https://inbcgammon.wiki.fc2.com/）
+  - 新着情報なし
+
+#### sportnardy.info（Tier1）
+- WebFetch 403 → WebSearch補完（site:sportnardy.info）
+  - サイトがSearch Indexから確認不可。結果ページ深掘り不可。
+  - 代替：wbgf.info / results.wbgf.info で日本人選手ランキング確認
+    - Akiko Yazawa（矢沢亲将）WBGF Rating: 1,052.98
+
+#### 日本人選手追加検索（A-3）
+- **Sam Mizutani（水谷）**
+  - 第54回日本選手権：5〜8位（88名中）
+  - 2026 International Istanbul Open：**3位**（322名参加）※1位 Vyacheslav Pryadkin（独）、2位 Artur Muradyan（亜）
+- **Akiko Yazawa（矢沢亲将）**
+  - IPSL Team Cup Tournament 2026：チーム4位（67チーム参加）
+  - Backgammon Asian Grand Prix 2026 Main Event Round 5：vs Peter Naguib（YouTube動画あり）
+- **Mochy（望月裕一 / Masayuki Mochizuki）**
+  - 第31回 Ohio State Backgammon Championships（3月26〜29日）：Mega Jackpot **2位**
+  - New York Metropolitan Open：Super Jackpot **3/4位**
+- **WBGF World Individual Championship**：2026年8月24〜30日、ロンドン開催予定
+
 ### 2026-05-04 - トーナメント週次調査（Tier1 + Tier2 + Tier3、月初フル実行）
 
 #### JBS（Tier1）

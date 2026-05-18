@@ -13,6 +13,78 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-05-18 - トーナメント週次調査（Tier1 + Tier2、D=18）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **バックギャモンU25合宿2026 参加者募集中**（新情報）
+    - 詳細日程・場所はbackgammon.or.jp公式参照
+  - **ラスベガスチャレンジ２**：5月17日（日）開催済み（結果未確認、先週告知より）
+  - **第3回女王戦**：出場者募集締切（5/14）通過済み → 出場者確定・開催時期待ち
+  - **第15回新鋭戦**：同上
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完（https://www.wbif.net/）
+  - 今週新着情報なし（前回ログ引継ぎ）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完（https://i-bg-federation.com/）
+  - 今週新着情報なし（前回ログ引継ぎ）
+
+#### INBC（Tier1）
+- WebFetch 403、WebSearch新情報なし → 前回ログ引継ぎ
+
+#### sportnardy.info（Tier1）
+- WebFetch 403、site:sportnardy.info 検索ヒットなし → 変化なし（JSレンダリング継続不可）
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- **Mochy（望月裕一）**：New York Doubles 優勝（Steve Saxとペア）※詳細日程不明、今週確認
+- **Michi Kageyama（景山美智）**：USA vs The World チーム戦でWorld Teamとして出場・勝利
+- **Akiko Yazawa（矢沢亮子）**：IPSL Team Cup 4位（Raj Jansari / David Wellsとチーム）、New York Doubles 準優勝
+- **世界ランキング確認**：1位 Mochy、2位 Michi Kageyama、6位 Akiko Yazawa
+
+---
+
+#### Chicago Open（Tier2）
+- **第44回シカゴオープン**：**本日から進行中！**（5月20〜25日、Hyatt Centric Chicago O'Hare）
+  - 2026年全米女子選手権（Women's National Championship）も同時開催
+  - 形式：MoreSwiss（ABT Open / Intermediate / Novice部門、USBGF会員登録必須）
+  - 参加費：$90（Noviceは$40）
+  - 結果は大会終了後（5/25以降）に確認予定
+
+#### UK Open（Tier2）
+- **2026 UKBGF UK Open**：5月22〜25日、Woodland Grange, Leamington Spa（イングランド）
+  - Warm-up / 受付：5月22日（アートギャモンボード賞品、Super/Mega Jackpot）
+  - メインイベント：Joe Dwek Trophy（5月23〜25日）
+  - UK National Doubles Championship（5月23日〜）
+  - Kent Goulding セミナー開催
+  - ライブ配信予定
+  - 現在未開幕（今週末開始）
+
+#### WBGF（Tier2）
+- **WBGF世界選手権2026**：8月24〜30日、Mercure Earls Court Hotel、ロンドン
+  - 国別チーム戦・女子チーム戦：8月24〜26日
+  - 個人戦（WBGF World Individual Championship）：8月27〜30日
+  - 第30回Mind Sports Olympiad（MSO）と同時開催
+  - 部門：Masters / Advanced / Intermediate + Side Events
+  - アクセス：Piccadilly線（ヒースロー空港直結）
+
+#### Japan Open / festival（Tier2）
+- 5月3〜5日終了済み（前回ログ確定情報引継ぎ）
+
+#### 大阪オープン（Tier2）
+- 第27回大阪オープン：3月7〜8日終了済み（前回ログ引継ぎ）
+
+#### UKBGF Tour 2026（Tier2）
+- **Harrogate Open**：5月16日（土）終了済み
+- **UK Open 2026**：5月22〜25日（上記参照）
+
+#### USBGF（Tier2）
+- Chicago Open 2026情報と重複（上記参照）
+
+#### WBA / WBF（Tier2）
+- 新着情報なし（前回ログ引継ぎ）
+
 ### 2026-05-11 - トーナメント週次調査（Tier1のみ、D=11）
 
 #### JBS（Tier1）

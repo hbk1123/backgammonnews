@@ -13,6 +13,51 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-05-25 - トーナメント週次調査（Tier1のみ、D=25）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **第7期賽王戦 中村順子が優勝！**（5月23日発表、JBSトップページ確認）
+    - 中村順子は日本バックギャモン界のレジェンドプレイヤー
+    - 2006・2007年日本選手権覇者の実績を持つベテランが再びタイトル獲得
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完（https://www.wbif.net/）
+  - 2026 International Istanbul Open 最終確認（結果）
+    - Main Tournament（322名）：1位 Vyacheslav Pryadkin（独）、2位 Artur Muradyan（亜）、**3位 Sam Mizutani（水谷晋）**
+    - IPSL Team Cup：**Akiko Yazawa（矢沢）**チームが優勝（Raj Jansari/英、David Wells/豪米と組む）
+    - Masters（121名）：1位 Ali Haydar Bayar（土）、2位 Burak Çulhaci（土）
+  - 今週新着なし（WBGF世界選手権2026の告知継続中）
+
+#### IBF（Tier1）
+- WebFetch 403、WebSearch新着なし → 前回ログ引継ぎ
+
+#### INBC（Tier1）
+- WebFetch 403、WebSearch新着なし → 前回ログ引継ぎ
+
+#### sportnardy.info（Tier1）
+- WebFetch 403（competition-participants/581, competition-statistics/581共に）
+- WebSearch（site:sportnardy.info 2026）ヒットなし → JSレンダリング継続不可
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- **中村順子**：第7期賽王戦優勝（5月23日確認）← **今週最大のニュース**
+- **Sam Mizutani（水谷晋）**：Istanbul Open Main Tournament 3位（322名）← 直近実績確認
+- **Akiko Yazawa（矢沢）**：Istanbul Open IPSL Team Cup 優勝チームとして参加確認
+- **Mochy（望月裕一）**：世界ランキング1位継続中（今週固有結果なし）
+- **Michi Kageyama（景山美智）**：世界ランキング2位継続中（今週固有結果なし）
+
+#### 国際大会カレンダー更新
+- **第44回シカゴオープン（5/20〜25）**：本日最終日・結果判明
+  - BMAB Player's Cup：1位 Frank Talbot（ミシガン州）
+  - Markowitz Masters：1位 Gerry Tansey（ミズーリ州）
+  - Faster Masters：1位 Chris Trencher（ニューヨーク州）
+  - Limited Jackpot：1位 David Habib（カナダ）
+  - 日本人選手情報：確認できず
+- **2026 UK Open（5/22〜25）**：本日最終日・Joe Dwek Trophy結果未発表（要来週確認）
+- **WBGF世界選手権2026（8/24〜30）**：ロンドン・Mercure Earls Court → 変更なし
+
+---
+
 ### 2026-05-18 - トーナメント週次調査（Tier1 + Tier2、D=18）
 
 #### JBS（Tier1）

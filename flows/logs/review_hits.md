@@ -4,6 +4,27 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-06-01 - レビュー・コミュニティ情報月次調査（D=1、月初実行）
+
+#### Reddit r/backgammon（https://www.reddit.com/r/backgammon/）
+- WebSearch補完（直接アクセス不可）
+  - コミュニティ継続活発（具体的投稿内容取得不可）
+
+#### Backgammon Forums（https://www.backgammonforums.com/）
+- WebSearch補完
+  - Tournaments & Events：UK Open 2026・Chicago Open 2026スレッド継続中
+  - Software & Equipment：eXtreme Gammon / BGBlitz / GNUbg / Galaxy 比較議論継続中
+  - News カテゴリ：WBGF世界選手権2026（8月ロンドン）関連投稿あり
+
+#### Backgammon Galaxy YouTube（https://www.youtube.com/@BackgammonGalaxy/videos）
+- WebSearch補完
+  - **2026 Chicago Open ABT Open Round 10 LIVE**（Day 4 S1 P2）：新着動画
+  - **Backgammon Asian Grand Prix 2026 Main Event**：Round 4・5・12 動画掲載（矢沢 vs Peter Naguib出演確認）
+  - **Backgammon Asian Grand Prix 2026 Masters Cup**：Last 32・Round 2 動画掲載
+  - Backgammon Stream 3/27/2026（継続配信記録）
+
+---
+
 ### 2026-05-04 - レビュー・コミュニティ情報月次調査（D=4、月初実行）
 
 #### Reddit r/backgammon

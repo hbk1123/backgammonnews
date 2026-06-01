@@ -13,6 +13,82 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-06-01 - トーナメント週次調査（Tier1 + Tier2 + Tier3、D=1、月初フルラン）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **第32期名人戦** オンライン予選①：6月13日（土）19:00（Backgammon Galaxy、Casualクロック7pt）
+  - **第32期名人戦** オンライン予選②：6月27日（土）19:00（同上）
+  - **第32期盤聖戦 準決勝・決勝**：6月20日（土）・21日（日）
+  - 今週新着の大会結果情報なし
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完（https://www.wbif.net/）
+  - 今週新着情報なし（WBGF世界選手権2026告知継続中）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完（https://i-bg-federation.com/）
+  - **Asian Grand Prix 2026**：大会継続中、Akiko Yazawa（矢沢）のMain Event Round 5対戦（vs Peter Naguib）動画確認（IBF公式YouTube）
+
+#### INBC（Tier1）
+- WebFetch 403、WebSearch新情報なし → 前回ログ引継ぎ
+
+#### sportnardy.info（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **Georgian Grand Prix Backgammon Blitz**（competition-results/891）確認、JSレンダリング必要のため詳細不明
+  - competition-contacts/577 および competition-child/577 ページ確認（内容取得不可）
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- **Akiko Yazawa（矢沢）**：Asian Grand Prix 2026 Main Event Round 5 出場（IBF公式YouTube動画確認）
+- **Mochy / Sam Mizutani / Michi Kageyama**：今週固有の新着結果なし
+
+---
+
+#### Tier2（D=1、月初）
+
+#### Japan Open（BACKGAMMON FESTIVAL 2026）
+- **第54回日本選手権（BACKGAMMON FESTIVAL 2026）**：5月3〜5日 COMPLETED
+  - 優勝：**野尾 貴弘（Takahiro Noo）**（先週より引継ぎ・確認）
+  - 会場：大崎ブライトコアホール（東京都品川区）
+
+#### 大阪オープン2026
+- 第27回 大阪オープン：3月7〜8日 COMPLETED（大阪市中央公会堂）
+  - 公式結果ページ：引続き未公開
+
+#### UKBGF（UK Open 2026）
+- **2026 UK Open（5月22〜25日）**：COMPLETED
+  - Joe Dwek Trophy（Masters）結果：未発表（UKBGF公式サイト更新待ち）
+  - UK National Doubles Championship：結果未発表
+  - 2026 UKBGFツアー：20イベント継続中（Tour Winners' Invitational 2027年1月予定）
+
+#### USBGF
+- 第44回シカゴオープン（5月20〜25日）：COMPLETED（先週報告済み）
+
+#### WBA / WBF
+- 2026 International Istanbul Open：COMPLETED（先週以前に報告済み）
+
+#### WBGF
+- **WBGF世界選手権2026**：8月24〜30日、ロンドン（Mercure Earls Court） → 変更なし
+
+---
+
+#### Tier3（D=1、月初）
+
+#### FmGammon Calendar（https://www.fmgammon.com/backgammon-tournament-calendar.php）
+- **FMBGT 2026/3**（FmGammon Backgammon Tournament）：7月4日（土）、WOW Hotel Yeşilköy、イスタンブール（トルコ）
+- FmGammon Open：7月3〜5日（同会場）
+
+#### Chicago Point（http://www.chicagopoint.com/results.html）
+- 2026 international results DB稼働中
+  - 2026 Merit Middle East Grand Prix Invitational：1位 Abdulhalim Barakat（クウェート）、2位 Mehrdad Goodarzi（イラン）
+  - Istanbul Open Masters（121名）：1位 Ali Haydar Bayar（トルコ）
+  - Charlotte ABT Open（4月30日〜5月3日）：1位 Gary Koscielny（フロリダ）
+
+#### WBGF Results Database（https://results.wbgf.info/tmanager）
+- 稼働中（WBIF / ABT / 各国連盟の大会結果登録継続）
+
+---
+
 ### 2026-05-25 - トーナメント週次調査（Tier1のみ、D=25）
 
 #### JBS（Tier1）

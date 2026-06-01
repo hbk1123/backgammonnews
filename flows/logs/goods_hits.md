@@ -4,6 +4,32 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-06-01 - グッズ月次調査（D=1、月初実行）
+
+#### JBS SHOP（https://backgammon.theshop.jp/）
+- WebFetch 403 → WebSearch補完
+  - 先月（5/4）調査より大きな変化なし。Von Waldenblatt / Crisloid ボード・プレシジョンダイス引続き販売中
+
+#### Backgammon Galaxy Shop（https://shop.backgammongalaxy.com/）
+- WebSearch補完
+  - **MEGA release** コレクション継続：精度サイコロ複数色・複数サイズ展開
+  - The Earth Board（$1,250）・The Monte Carlo Board（$1,250）ラインナップ変化なし
+  - $150以上で米国・EU向け送料無料継続
+
+#### GammonVillage（https://www.gammonvillage.com/backgammon-shop/）
+- WebSearch補完
+  - **Champion Class バックギャモンセット**（プロトーナメント向け）継続販売中
+  - セール品・アウトレットコーナー継続
+
+#### BGShop（https://bgshop.com/）
+- WebSearch補完
+  - 稼働中、6月新着情報なし
+
+#### Ace Point Backgammon（https://apbg.shop/）
+- WebSearch結果なし → 今月新着情報確認不可
+
+---
+
 ### 2026-05-04 - グッズ月次調査（D=4、月初実行）
 
 #### JBS SHOP（https://backgammon.theshop.jp/）

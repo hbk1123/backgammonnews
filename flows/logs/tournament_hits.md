@@ -13,6 +13,63 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-06-08 - トーナメント週次調査（Tier1のみ、D=8）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **世界オンラインチーム選手権 日本代表選手募集**：締切 **6月30日（火）**（JBSトップページ確認）
+    - WBIF（世界バックギャモンインターネット連盟）主催のオンラインチーム世界選手権
+    - 応募先：JBS公式サイト（backgammon.or.jp）
+  - **第32期名人戦 オンライン予選①**：6月13日（土）19:00 ← **来週！**（Backgammon Galaxy、7pt Casualクロック）
+  - **第32期盤聖戦 準決勝・決勝**：6月20日（土）・21日（日）← 要注目
+  - **第33期盤聖戦 ネット予選 出場者募集中**：締切 **6月28日（日）**
+  - 今週固有の大会結果情報なし
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完（https://www.wbif.net/）
+  - 今週新着情報なし（WBGF世界選手権2026 ロンドン告知継続中）
+  - **WBIF World Online Team Championship**：継続中（日本代表選考 ← JBS上記）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完（https://i-bg-federation.com/）
+  - **Asian Grand Prix 2026（タシケント、3月22〜29日）**：COMPLETED（前回ログ引継ぎ）
+    - **IBF Asian Grand Prix 1st Series**：タシケント（ウズベキスタン）にて開催
+    - 参加者約700名、55か国以上、賞金総額 $500,000（過去最高）
+    - Blitz部門優勝：Kenan Hasanov（アゼルバイジャン、256名中1位）
+    - 日本人選手の結果：確認できず（IBF公式サイトアクセス不可のためWebSearch確認）
+  - **IBF次期大会情報**：新着なし
+
+#### INBC（Tier1）
+- WebFetch 403、WebSearch新着なし → 前回ログ引継ぎ（更新なし）
+
+#### sportnardy.info（Tier1）
+- WebFetch 403（https://sportnardy.info/、competition-results/891）
+- WebSearch（site:sportnardy.info competition-statistics 2026）：インデックスなし、JSレンダリング必須
+  - competition-results/891（Georgian Grand Prix Backgammon Blitz）：内容取得不可
+  - 日本人選手確認不可
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- `Mochy OR Yazawa OR "Mizutani" backgammon tournament 2026 result` 検索
+  - 今週固有の新着結果なし（直近は Istanbul Open 結果 ← 5月25日ログ済み）
+- `backgammon 2026 Japan player result site:wbif.net OR site:i-bg-federation.com` 検索
+  - 新着なし
+
+#### 第44回シカゴオープン（5月20〜25日）最終結果更新
+- ABT Open（79名）優勝：**John O'Hagan（インディアナ州）**
+- Markowitz Masters 優勝：**Alexander Handin（カリフォルニア州）**
+- Faster Master 優勝：**Alexander Handin（カリフォルニア州）**
+- Women's World of Backgammon 優勝：**Marcy Kossar（メリーランド州）**
+- Unlucky Dice Last Chance 優勝：**Kit Woolsey（カリフォルニア州）**
+- 会場：Rosemont, Illinois
+- 日本人選手情報：確認できず
+
+#### 国際大会カレンダー（今後60日）
+- **Wild West Shootout**：6月3〜7日、デンバー（コロラド州） ← 本日終了
+- **20th Geneva Open**：6月5〜7日、ジュネーブ（スイス） ← 本日終了
+- **USBGF National Club Championship**：参加締切 **6月10日（水）** ← 2日後
+- **St. Louis Tournament（USBGF）**：6月17〜21日、セントルイス（ミズーリ州）
+- **WBGF World Team Championship 2026**：8月24〜30日、ロンドン（Mercure Earls Court） → 変更なし
+
 ### 2026-06-01 - トーナメント週次調査（Tier1 + Tier2 + Tier3、D=1、月初フルラン）
 
 #### JBS（Tier1）

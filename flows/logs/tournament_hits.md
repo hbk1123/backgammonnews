@@ -13,6 +13,81 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-06-15 - トーナメント週次調査（Tier1 + Tier2、D=15）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完（https://backgammon.or.jp/）
+  - **第32期名人戦 オンライン予選①**：6月13日（土）19:00 → 開催済み（結果未確認）
+  - **第32期盤聖戦 準決勝・決勝**：6月20日（土）・21日（日） ← **今週末！要注目**
+  - **第33期盤聖戦 東京リーグ 出場者募集**：締切 6月28日（日）
+  - **世界オンラインチーム選手権 日本代表選手募集**：締切 6月30日（火）（継続中）
+  - 今週固有の大会結果情報なし
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完（https://www.wbif.net/）
+  - **WBIF Tour Final / 3rd Austrian Open 2026**：6月5〜7日、Casino Baden（オーストリア）→ COMPLETED
+    - フォーマット：スイス方式 11pt、参加費 €200、参加者39名
+    - 最終結果：詳細未取得（WebFetch 403、ggarena.app確認も詳細不明）
+    - 日本人選手：確認できず
+  - WBIF World Online Team Championship：継続中（日本代表選考 締切6/30）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完（https://i-bg-federation.com/）
+  - 新着情報なし（Asian Grand Prix 2026 = 前回ログ済み）
+
+#### INBC（Tier1）
+- WebFetch 403、WebSearch新着なし → 更新なし
+
+#### sportnardy.info（Tier1）
+- WebFetch 403 → WebSearch（site:sportnardy.info competition-statistics 2026）
+  - site検索でインデックスなし（JSレンダリング必須のため継続して取得不可）
+  - 日本人選手情報：確認不可
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- `Mochy OR Yazawa OR "Mizutani" backgammon tournament 2026 result` 検索
+  - 今週固有の新着情報なし（最新：Istanbul Open 2026 ← 前回ログ済み）
+- `backgammon 2026 Japan player result site:wbif.net OR site:i-bg-federation.com` 検索
+  - 新着なし
+
+---
+
+#### Tier2（D=15）
+
+#### Japan Open（BACKGAMMON FESTIVAL 2026）
+- 第54回日本選手権（5月3〜5日）：COMPLETED（前回ログ引継ぎ）
+  - 優勝：野尾 貴弘（Takahiro Noo）
+
+#### 大阪オープン2026
+- 第27回大阪オープン（3月7〜8日）：COMPLETED（結果ページ未公開継続）
+
+#### UKBGF（UK Backgammon Federation）
+- **2026 UKBGF Tour：Blackpool（The Imperial Hotel）**：6月12〜14日 → COMPLETED（今週）
+  - 結果詳細：未取得
+- **2026 UKBGF Tour：Cambridge North（Novotel）**：6月27〜28日 ← **来週末**
+- **2026 UKBGF Tour：Liverpool（Christ the King Parish Centre）**：7月11〜12日
+
+#### USBGF
+- **Denver Open 2026（Wild West Shootout, 8th Annual）**：6月3〜7日 → COMPLETED
+  - ABT Division 1 – Bison 優勝：**Richard Stubbe（テキサス州）**
+  - ABT Division 2 – Gunslingers 優勝：**William Reeves（コロラド州）**
+  - ABT Division 3 – Warriors 優勝：**Larry Arnold（アリゾナ州）**
+  - 日本人選手入賞：確認できず
+- **St. Louis Tournament（USBGF）**：6月17〜21日 ← **来週開催予定**
+
+#### WBA / WBF
+- 新着情報なし（Istanbul Open 2026 = 前回ログ済み）
+
+#### Chicago Open 2026
+- 第44回シカゴオープン（5月20〜25日）：COMPLETED（前回ログ済み）
+
+#### WBGF
+- **WBGF World Championship 2026**：8月24〜30日、ロンドン（Mercure Earls Court） → 変更なし
+  - 団体戦（National Teams・Women's Teams）：8月24〜26日
+  - 個人戦：8月27〜30日
+  - 会場ホテル：Mercure London Earls Court
+  - 第30回マインドスポーツオリンピアードと同時開催
+  - 日本代表チーム参加向け要注目
+
 ### 2026-06-08 - トーナメント週次調査（Tier1のみ、D=8）
 
 #### JBS（Tier1）

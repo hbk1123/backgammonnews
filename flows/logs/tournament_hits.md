@@ -13,6 +13,43 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-06-22 - トーナメント週次調査（Tier1のみ、D=22）
+
+#### JBS（Tier1）
+- r.jina.ai経由・直接WebFetchともに403 → WebSearch補完
+  - **第32期盤聖戦 準決勝・決勝**：6月20日（土）・21日（日）13:30〜、愛知・大府にて開催（大府例会と同時開催）
+    - 準決勝対戦カード：後藤秀明（ネット予選）vs 河合仁（ネット予選）／田中淳一（現盤聖・大阪リーグ）vs 河内ひびき（ネット予選）
+    - 決勝結果：WebSearchでは未確認（検索エンジン未反映の可能性、次回追跡調査）
+  - **第33期盤聖戦 東京リーグ 出場者募集**：締切6月28日（継続中）
+  - **第31期名人戦予選オンライントーナメント**：6/14・6/21開催の出場者募集（新着）
+  - **世界オンラインチーム選手権 日本代表選手募集**：締切6月30日（継続中）
+  - **Las Vegas Open 2026への日本代表派遣決定**（要再確認）：2026年10月7〜12日、ラスベガス（AC Hotel by Marriott Symphony Park）。Japan Openオープンクラス優勝者・中級戦優勝者の各1名を派遣、渡航費・参加費はJBS負担との情報
+
+#### WBIF（Tier1）
+- r.jina.ai経由・直接WebFetchともに403 → WebSearch補完も新着情報なし
+  - 検索結果はWBGF（別組織）関連が中心。WBIF固有の新着なし
+
+#### IBF（Tier1）
+- r.jina.ai経由・直接WebFetchともに403 → WebSearch補完
+  - Asian Grand Prix 2026（3/22〜29、タシケント）：既報。優勝はKenan Hasanov（アゼルバイジャン、Blitz部門256名中1位）
+  - **World Longgammon Championship & Georgian Grand Prix 2026**：2026年5月28日〜6月3日、ジョージア・トビリシ開催（新着・前回調査以降に詳細判明）
+
+#### INBC（Tier1）
+- r.jina.ai経由・直接WebFetchともに403 → WebSearch補完も新着情報なし → 更新なし
+
+#### sportnardy.info（Tier1）
+- r.jina.ai経由・直接WebFetchともに403 → WebSearch（site:sportnardy.info competition-statistics 2026）
+  - 以下のページURLを確認したが、JSレンダリングのため詳細データの直接取得は不可：
+    - competition-statistics/582（Asian Grand Prix Main / Longgammon）
+    - competition-participants/887（World Longgammon Championship Blitz、トビリシ、5/29、150名）
+    - competition-results/891（Georgian Grand Prix Backgammon Blitz）
+
+#### 日本人選手 追加WebSearch
+- **Michihito Kageyama（景山美智彦）& Tatsuya Tanaka（田中達也）組**：World Longgammon Championship 2026（トビリシ）ダブルスで**2位** ※WebSearch情報、要確認
+- Sam Mizutani（水谷）：「3位・322名参加」との情報がAsian Grand PrixとWorld Longgammon Championshipの両方に重複して現れた。322名・3位という数字は前回（6/15）ログ済みの**Istanbul Open 2026 Main Tournament 3位**と一致するため、検索エンジンの要約が混同・誤帰属している可能性が高い。**新規情報として確定できず、次回sportnardy.infoの結果ページを直接確認して裏取りが必要**
+- Mochy（望月裕一）：UBC（Ultimate Backgammon Championship）イスタンブール優勝との情報あり ※WebSearch情報、既報の可能性あり要確認
+- Akiko Yazawa（矢沢）：IPSL Team Cup チーム4位の情報は前回（6/15）ログ済みのIstanbul Open情報と同一の可能性が高く、新規性なし
+
 ### 2026-06-15 - トーナメント週次調査（Tier1 + Tier2、D=15）
 
 #### JBS（Tier1）

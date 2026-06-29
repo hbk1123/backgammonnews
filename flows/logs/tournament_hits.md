@@ -13,6 +13,38 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-06-29 - トーナメント週次調査（Tier1のみ、D=29）
+
+#### JBS（Tier1）
+- r.jina.ai経由WebFetch 403 → WebSearch補完
+  - **第32期盤聖戦 決勝結果**：依然WebSearchでは優勝者を確認できず（2週連続未確認。協会サイト結果ページが未反映または検索エンジン未反映の可能性、次回も追跡）
+  - **ラスベガスチャレンジ2 開催決定**：JBS公式（festival.backgammon.or.jp/archives/3478）で確認。前回(6/22)「要確認」としていたLas Vegas Open 2026への日本代表派遣関連情報がJBS公式発表として確定
+  - **第33期盤聖戦 東京リーグ 出場者募集**：締切6月28日（本日時点で募集終了見込み）
+  - **世界オンラインチーム選手権 日本代表選手募集**：締切6月30日（明日締切、継続中）
+  - **第31期名人戦予選オンライントーナメント②**：6月27日（土）19:00、Backgammon Galaxyにて開催済み（結果未確認）
+
+#### WBIF（Tier1）
+- r.jina.ai経由・直接WebFetchともに403 → WebSearch補完も新着情報なし
+
+#### IBF（Tier1）
+- r.jina.ai経由・直接WebFetchともに403 → WebSearch補完
+  - Asian Grand Prix 2026・World Longgammon Championship & Georgian Grand Prix 2026は既報、新着なし
+
+#### INBC（Tier1）
+- r.jina.ai経由・直接WebFetchともに403 → WebSearch補完も新着情報なし → 更新なし
+
+#### sportnardy.info（Tier1）
+- トップページ・結果ページ（competition-statistics/582 を直接WebFetch）ともに403 → WebSearchで以下を確認したがJSレンダリングのため詳細データ取得不可（既報と同一）：
+  - competition-statistics/582（Asian Grand Prix Main / Longgammon）
+  - competition-participants/887（World Longgammon Championship Blitz、トビリシ、5/29、150名）
+  - competition-results/891（Georgian Grand Prix Backgammon Blitz）
+
+#### 日本人選手 追加WebSearch
+- Sam Mizutani（水谷）：「3位・322名参加」の情報が再度検索結果に出現。前回(6/22)同様、出典が他大会情報と混同している可能性が高く、新規情報として確定できず（要継続確認）
+- Akiko Yazawa（矢沢）：IPSL Team Cup チーム4位の情報、既報と同一で新規性なし
+- Michihito Kageyama（景山）& Tatsuya Tanaka（田中）：World Longgammon Championship 2026ダブルス2位、既報情報のまま裏取り未完了
+- Mochy、Nack Ballard：新規情報確認できず
+
 ### 2026-06-22 - トーナメント週次調査（Tier1のみ、D=22）
 
 #### JBS（Tier1）

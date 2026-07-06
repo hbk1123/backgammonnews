@@ -4,6 +4,34 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-07-06 - グッズ月次調査（D=6、月初実行）
+
+#### JBS SHOP（https://backgammon.theshop.jp/）
+- WebFetch 403 → WebSearch補完
+  - 継続販売中：Von Waldenblatt トーナメントボード（JBS公式ボード）・Crisloid ボード・プレシジョンダイス・チェッカー・書籍類
+  - 新商品・値下げ等の新着情報なし（前月比変化なし）
+
+#### Backgammon Galaxy Shop（https://shop.backgammongalaxy.com/）
+- WebSearch補完
+  - **Cosmos Cubes シリーズ**（ラグジュアリーダブリングキューブ）：継続販売中
+  - Tournament Boards ライン（The Earth Board・The Monte Carlo Board 各$1,250）継続
+  - 精度サイコロ多色展開継続
+  - 新着製品情報なし
+
+#### GammonVillage（https://www.gammonvillage.com/backgammon-shop/）
+- WebSearch補完
+  - **Wycliffe Brothers Masters Edition トーナメントセット**（新着）：プロ仕様の高性能ボードを手頃な価格で提供。GammonVillage限定販売。Details: 具体価格は未取得
+  - Champion Class バックギャモンセット継続販売中
+
+#### BGShop（https://bgshop.com/）
+- WebSearch結果：稼働中、7月新着情報確認不可
+
+#### Ace Point Backgammon（https://apbg.shop/）
+- WebSearch結果なし → 7月新着情報確認不可
+
+#### 注目製品（複数サイト横断）
+- **GM Oliver Squireのサイコロタワー（新製品）**：ダイスがスタックしにくいファネル型トラクト設計。バックギャモンコミュニティ向け新製品として複数メディアで言及
+
 ### 2026-06-01 - グッズ月次調査（D=1、月初実行）
 
 #### JBS SHOP（https://backgammon.theshop.jp/）

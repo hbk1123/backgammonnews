@@ -13,6 +13,87 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-07-06 - トーナメント週次調査（Tier1〜3、D=6 月初実行）
+
+#### JBS（Tier1）
+- r.jina.ai経由WebFetch 403 → WebSearch補完
+  - **バックギャモン体験会 in 横浜・馬車道（7月2日開催済み）**：BankPark YOKOHAMA（横浜市中区本町6）1階 CRAFT. にて「第一回 大人の木曜日『バックギャモンの世界』―2028年横浜世界大会誘致に向けて―」を開催。Mochy（望月正行プロ）が出演し「2028年に世界大会を横浜で実現したい」と宣言。横浜開催はアジア初の世界大会となる。今後月1回の開催予定（出典：ヨコハマ経済新聞 hamakei.com/headline/13244）
+  - **第32期盤聖戦 決勝結果**：依然Web検索で優勝者を確認できず（3週連続未確認）
+  - **第33期盤聖戦 東京リーグ**：6月28日締切で出場者募集終了
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - WBIFオンライン大会情報：結果DBはresults.wbgf.info/wbif/ で確認可能、新着確認不可
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - Asian Grand Prix 2026（3月22-29日・タシュケント）：既報。最大規模の国際大会として注目。新着情報なし
+  - **Akiko Yazawa（矢沢）**：IBF Asian Grand Prix 2026 Main Eventに出場（Round 5：vs Peter Naguib 対戦映像をBackgammon Galaxy YouTubeにて公開確認）
+
+#### INBC（Tier1）
+- WebFetch 403 → WebSearch補完 → 新着情報なし → 更新なし
+
+#### sportnardy.info（Tier1）
+- WebFetch 403（トップ・competition-participants/581・competition-results/891 すべて）→ WebSearch補完
+  - competition-participants/581: Georgian Grand Prix関連。JSレンダリング必要のため詳細取得不可
+  - competition-results/891: Georgian Grand Prix Backgammon Blitz。JSレンダリング必要のため詳細取得不可
+  - IBF Asian Grand Prix PDF（s3.regru.cloud/sportnardy.info/...）：規程文書として確認済み
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- **Mochy（望月裕一/正行）**：バックギャモンスタートインターナショナル2025/2026のセミファイナルに進出（2026年4月、vs Aleksey Ignarin 戦、YouTube動画確認）；7月2日横浜イベントで2028年横浜世界大会誘致を宣言
+- **Sam Mizutani（水谷）**：322名参加の国際大会で3位（出典：chicagopoint.com/results.html、具体大会名混在の可能性あり要継続確認）；New York Metropolitan Open Jackpot（24名）で3位（出典：nybackgammon.net/results）
+- **Akiko Yazawa（矢沢）**：IBF Asian Grand Prix 2026 Main Event Round 5出場（YouTube動画あり）；IPSL Team Cup チーム4位（既報）
+- Nack Ballard / Michi Kageyama / Toshi Ono：新規情報なし
+
+---
+
+#### Japan Open / Backgammon Festival 2026（Tier2）
+- 5月3〜5日に大崎ブライトコアホール（東京都品川区）にて開催済み
+- 結果詳細：wbgf.info/tournament/japan-open-2026/ にて公開中（詳細取得不可）
+
+#### 大阪オープン2026（Tier2、第27回）
+- 3月7〜8日、大阪市中央公会堂にて開催済み
+
+#### UKBGF UK Open 2026（Tier2）
+- 5月22〜25日、Woodland Grange（Leamington Spa）にて開催済み
+
+#### Chicago Open 2026（Tier2、第44回）
+- 5月20〜25日、Hyatt Centric Chicago O'Hare（イリノイ州ロズモント）にて開催済み
+  - ABT Open（79名）：1位 John O'Hagan (IN)、2位 Anthony Niakiani (CA)、3位 Michael Flohr (IL)
+  - ABT Intermediate（78名）：1位 Dan Doherty (CA)、2位 Graham Webb (WI)
+  - ABT Novice（29名）：1位 Ece Agirbas (GA)
+  - Women's National Championship（24名）：1位 Marcy Kossar (MD)
+  - 日本人選手の上位入賞は確認されず
+
+#### WBGF World Championships 2026 London（Tier2 今後の予定）
+- **日程**：8月24〜30日（開会式8/24、チーム選手権8/24〜26、個人選手権8/27〜30）
+- **会場**：Mercure Hotel Earls Court、ロンドン（英国初開催）
+- 第30回 Mind Sports Olympiadと同時開催
+- 出典：ukbgf.com/wtc2026、usbgf.org/team など複数
+
+#### WBA / WBF（Tier2）
+- WebFetch 403 → WebSearch補完 → 新着情報なし
+
+---
+
+#### FmGammon Calendar（Tier3）
+- WebFetch 403 → WebSearch補完。バックギャモン世界選手権2026（モンテカルロ）・WBGF World Championships（ロンドン）がカレンダーに掲載中
+
+#### Chicago Point 2026 results（Tier3）
+- 2026年国際大会結果ページ（chicagopoint.com/results.html）：Sam Mizutani 3位の情報を含む最新結果を掲載中。詳細は直接確認推奨
+
+#### WBGF 結果データベース（Tier3）
+- WebFetch 403 → WebSearch補完。results.wbgf.info/tmanager にて最新大会リスト確認可能
+
+---
+
+#### バックギャモン世界選手権 2026（BGWC、Tier1/2横断・最重要）
+- **モンテカルロオープン**：7月25〜26日
+- **世界選手権本戦**：7月27日〜8月2日
+- **会場**：Fairmont Monte Carlo（モナコ）
+- 複数部門（チャンピオンシップ、中級者、初心者、女子、ダブルス、チーム）
+- 出典：backgammonworldchampionship.com
+
 ### 2026-06-29 - トーナメント週次調査（Tier1のみ、D=29）
 
 #### JBS（Tier1）

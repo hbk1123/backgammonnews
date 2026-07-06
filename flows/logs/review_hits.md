@@ -4,6 +4,26 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-07-06 - レビュー・コミュニティ情報月次調査（D=6、月初実行）
+
+#### Reddit r/backgammon（https://www.reddit.com/r/backgammon/）
+- WebSearch補完（直接アクセス不可）
+  - 2026年バックギャモンの文化的復興継続：米国各都市でグラスルーツコミュニティが急成長中
+  - 具体的投稿内容取得不可（次回直接アクセス試行推奨）
+
+#### Backgammon Forums（https://www.backgammonforums.com/）
+- WebSearch補完
+  - 世界選手権2026（モンテカルロ・7月27日〜8月2日）参加議論スレッド継続
+  - WBGF World Championships 2026（ロンドン・8月24〜30日）議論スレッド継続
+  - 前月確認済みのChicago Open / UK Open 2026スレッドはクローズ方向
+
+#### Backgammon Galaxy YouTube（https://www.youtube.com/@BackgammonGalaxy/videos）
+- WebSearch補完
+  - **Backgammon Asian Grand Prix 2026 Main Event**：Round 4・5・12 動画掲載済み（前月確認情報と同一、新着なし）
+  - **Backgammon Asian Grand Prix 2026 Masters Cup**：Last 32・Round 2 動画掲載済み
+  - **Semifinal▸バックギャモンスタートインターナショナル2025/2026 Mochy vs Aleksey Ignarin**（2026年4月）：動画確認済み（前月確認情報）
+  - 7月の新着配信情報：未確認（次回直接確認推奨）
+
 ### 2026-06-01 - レビュー・コミュニティ情報月次調査（D=1、月初実行）
 
 #### Reddit r/backgammon（https://www.reddit.com/r/backgammon/）

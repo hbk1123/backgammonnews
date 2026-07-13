@@ -13,6 +13,53 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-07-13 - トーナメント週次調査（Tier1のみ、D=13）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **第32期名人戦（Meijin）**：本戦出場者確定済み。64名トーナメント、全試合25点マッチ形式。本戦進行中。
+  - **第15回新鋭戦**：5回戦締切 7月6日（月）終了。次回6回戦締切 2026年8月3日（月）。
+  - **第5回名古屋オープン**：10月31日（土）〜11月1日（日）開催予定（次回大型タイトル戦）。
+  - **Japan Open Backgammon Festival 2026**（5月3日〜6月5日・東京）：結果DBに順位未登録（"No placings entered yet"）。88名参加の第54回 Japan Open Division 1ほか複数部門。
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 新着情報なし。results.wbgf.info/wbif/ で結果DB確認可能。
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 新着情報なし（前回報告：World Longgammon Championship & Georgian GP 2026、5月28日〜6月3日・トビリシ）。
+
+#### INBC（Tier1）
+- WebSearch補完
+  - 新着情報なし。検索結果なし。
+
+#### sportnardy.info（Tier1）
+- WebFetch 403 → WebSearch補完
+  - Georgian Grand Prix 2026 / World Longgammon Championship（トビリシ）結果確認：
+    - **メイン（350名）**：1位 Julian Becker（独）、2位 Phillip Marmorstein（スイス）、3位 Christian Setzpfandt（独）
+    - **Masters Cup（128名）**：1位 Lev Rosenfeld（イスラエル）、2位 Johannes Levermann（独）、3位 Guido Weidner（独）
+    - **ダブルス（128組）**：1位 Ali Haydar Bayar & Selin Kurt Talipoglu（トルコ）
+    - **World Longgammon Championship Blitz**（5月29日・トビリシ）：150名参加、賞金$20,000、スイス方式
+    - ※ 日本人選手の入賞情報なし
+
+#### 国際大会・結果（全般）
+- **Swedish Open 2026**（7月1〜5日・ストックホルム Vår Gård）：結果未公表（確認不可）
+  - 付随：UBC Contender Stockholm（6月30〜7月2日）：モナコUBC準決勝出場権が懸かったEU予選。
+- **40th Istanbul Summer / WBF Tournament**（7月10〜12日・アクギュンホテル、イスタンブール）：直後のため結果未確認。
+- **Liverpool Open 2026**（7月11〜12日・Christ the King Parish Centre）：直後のため結果未確認。
+
+#### 【重要】今後60日以内の主要大会
+- **第54回バックギャモン世界選手権（54th Backgammon World Championship）**：2026年7月23日（木）〜29日（水）、モナコ・フェアモントモンテカルロ。参加受付中。
+- **WBGF世界チーム選手権・個人選手権**：2026年8月24日〜30日、ロンドン・マーキュリーホテル（アール・コート）。世界各国ナショナルチームが参加。個人戦は Masters / Advanced / Intermediate 部門設置。マインドスポーツ・オリンピアード第30回と同時開催。
+- **第5回名古屋オープン**：2026年10月31日〜11月1日（日本）。
+
+#### 日本人選手の動向
+- **Mochy（望月裕一）**：UBC 2026 Istanbul大会で優勝（4度目のUBCタイトル）。現在世界Giants List 1位。2028年横浜世界大会誘致を推進中（「2028年にアジア初の世界大会を横浜で」と宣言）。
+- **Akiko Yazawa（矢沢）**：NY Metropolitan Open で Young & Restless 3位、NYダブルス Mochy とペアで2位、IPSL Team Cup Raj Jansari（英）・David Wells（豪/米）チームで4位。
+- **Sam Mizutani（水谷）**：某大会メイントーナメント（322名参加）で3位（大会名・日程の詳細未確認）。
+- **Michi Kageyama（景山美智）**：Giants List 2位。今週の具体的な試合結果なし。
+
 ### 2026-07-06 - トーナメント週次調査（Tier1〜3、D=6 月初実行）
 
 #### JBS（Tier1）

@@ -13,6 +13,87 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-07-20 - トーナメント週次調査（Tier1 + Tier2、D=20）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **【速報】世界オンラインチーム選手権2026 日本代表決定！**（JBSトップページ確認）
+    - 日本代表メンバー（キャプテン：池谷直紀）
+      - 池谷 直紀（IKETANI Naoki） — キャプテン
+      - 瀧宮 悠太（TAKIMIYA Yuta）
+      - 市川 勝規（ICHIKAWA Masanori）
+      - 日野 雄之（HINO Takayuki）
+    - 大会：WBIF 世界オンラインチーム選手権2026（2026年8月開催予定）
+    - ※ Mochy・Yazawa の名前は日本代表リストに確認されず
+  - **第32期名人戦**：本戦（64名トーナメント・25点マッチ）継続中
+  - **第15回新鋭戦**：第6回戦締切 2026年8月3日（月）
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **51st Michigan Summer Backgammon Championships**（7月1〜5日・Novi, Michigan）：COMPLETED
+    - ABT Open（74名）：1位 Garry Kallos（カナダ）、2位 Gary Koscielny（FL）、3位 Michael Mesich（MN）
+    - Women's World of Backgammon Fireworks Cup（13名）：1位タイ **Akemi Ota（MI）**・April Mesich（MN）、1C Karen Davis（FL）
+    - Warm-Up Division 1（16名）：1位 Gary Fritzsche（MI）
+    - Warm-Up Division 2（24名）：1位タイ Brad King（MI）・Rhonda Monro（MI）
+    - ※ Akemi Ota（日系？）が女子部門で優勝タイ（注目）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **IBF Asian Grand Prix 2026 Team Championship**（backgammonmaster.nlで確認）：詳細結果未取得
+  - 新着 IBF 大会情報：確認できず。継続監視。
+
+#### INBC（Tier1）
+- WebSearch → 新着情報なし
+
+#### sportnardy.info（Tier1）
+- WebFetch 403 → WebSearch補完
+  - competition-child/577（7月開催の大会）、competition-child/319 確認
+  - **40th Istanbul Summer-WBF Tournament**（7月10〜12日・Akgun Hotel、イスタンブール）：COMPLETED（結果未公表）
+  - **Liverpool Open 2026**（7月11〜12日・Christ the King Parish Centre）：COMPLETED（結果未公表）
+  - **44th Swedish Open**（7月1〜5日・ストックホルム Vår Gård）：COMPLETED（結果未公表）
+  - **FMGammon Open Istanbul**（7月3〜5日・WOW Hotel Yeşilköy）：COMPLETED（結果未公表）
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- `Mochy OR Yazawa OR "Mizutani" backgammon tournament 2026 result`
+  - **Mochy（望月裕一）**：世界ランキング1位継続、今週固有の新着大会結果確認できず
+  - **Akemi Ota（MI）**：Michigan Summer Women's部門 優勝タイ。名前から日系選手の可能性あり（要継続確認）
+  - 他選手（Yazawa・Mizutani・Kageyama・Nack Ballard）：今週固有の新着なし
+
+#### 【重要】今後60日以内の主要大会
+- **Monte Carlo Open（モンテカルロオープン）**：7月25〜26日 ← **今週末開始！**
+- **第54回バックギャモン世界選手権（54th BGWC）**：7月27日〜8月2日、Fairmont Monte Carlo（モナコ）← **来週開始！世界最高峰**
+- **WBIF 世界オンラインチーム選手権2026**：8月開催予定、日本代表4名決定済み
+- **WBGF World Teams & Individual Championships**：8月24〜30日、ロンドン（Mercure Earls Court）
+
+---
+
+#### Tier2（D=20、15〜21のため実行）
+
+#### Japan Open / BACKGAMMON FESTIVAL（Tier2）
+- 5月3〜6日 COMPLETED（前回ログ引継ぎ、結果DB登録待ち継続）
+
+#### 大阪オープン2026（Tier2）
+- 3月7〜8日 COMPLETED（前回ログ引継ぎ）
+
+#### UKBGF（Tier2）
+- **Liverpool Open 2026**（7月11〜12日）：COMPLETED（上記 sportnardy参照）
+- **2026 UKBGFツアー**：継続中。次回大会：要確認。WBGF World Championships 2026（8月24〜30日ロンドン）に向けてUKBGF代表選考進行中。
+
+#### USBGF（Tier2）
+- **51st Michigan Summer Championships**（7月1〜5日）：COMPLETED（上記参照）
+- 次回主要ABTイベント：8月5〜9日（Madison, WI）
+
+#### WBA / WBF（Tier2）
+- WBF: **40th Istanbul Summer**（7月10〜12日）COMPLETED（結果未公表）
+- WBA: 新着情報なし
+
+#### Chicago Open（Tier2）
+- 第44回（5月20〜25日）COMPLETED（前回ログ引継ぎ）
+
+#### WBGF（Tier2）
+- **WBGF World Teams Championship**：8月24〜26日、Mercure London Earls Court → 変更なし
+- **WBGF World Individual Championship**：8月27〜30日（同会場）
+
 ### 2026-07-13 - トーナメント週次調査（Tier1のみ、D=13）
 
 #### JBS（Tier1）

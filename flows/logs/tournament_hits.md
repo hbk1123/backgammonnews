@@ -13,6 +13,49 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-07-27 - トーナメント週次調査（Tier1のみ、D=27）
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **第54回バックギャモン世界選手権、本日開幕！**
+    - 7月27日（月）〜8月2日（日）、Fairmont Monte Carlo（モナコ）
+    - モンテカルロオープン（7月25〜26日）を前哨戦として開催済み
+    - Mochy（望月裕一）ほか日本選手参加の可能性大（赤坂道場が8月3日休会＝モナコ対応）
+  - **赤坂バックギャモン道場 閉幕告知**：2026年6月末をもって赤坂クインルームでの活動終了（JBSより公告）
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 新着の大会結果なし（前回ログ継続）
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 新着情報なし
+
+#### INBC（Tier1）
+- WebSearch → 新着情報なし
+
+#### sportnardy.info（Tier1）
+- WebFetch 403 → WebSearch補完
+  - 新着大会URLリスト：competition-child/577、competition-child/319
+  - 今週終了大会：なし（BGWC / UBC Final 4 が最大焦点）
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- **【速報】UBC 2026 Contender Final 4（モナコ、7月25〜26日）に日本選手2名出場！**
+  - **Michihito Kageyama（景山美智）** — Americas地区チャンピオン（UBC Contender San Antonio、12名、2位 Frank Frigo）→ Final 4進出
+  - **Hideaki Ueda（上田英明）** — Asia地区チャンピオン（UBC Contender Tokyo/Japan、8名、2位 Junichi Tanaka）→ Final 4進出
+  - 準決勝カード確認：Hideaki Ueda vs Oliver Squire（英）（YouTubeで動画確認）
+  - 勝者は現UBCチャンピオン Zdenek Zizka（チェコ）にプラハで挑戦権
+  - 残り2組の地区チャンピオン：Marc Olsen（デンマーク、Istanbul）、Oliver Squire（英、Stockholm）
+  - Final 4 最終結果：公式発表未確認（進行中）
+
+#### 【重要】今後60日以内の主要大会
+- **第54回バックギャモン世界選手権（54th BGWC）**：7月27日〜8月2日 ← **本日開幕！**（モナコ）
+- **WBIF 世界オンラインチーム選手権2026**：8月開催予定（日本代表：池谷直紀cap）
+- **WBGF World Teams & Individual Championship**：8月24〜30日（ロンドン、Mercure Earls Court）
+- **第5回名古屋オープン**：10月31日〜11月1日
+
+---
+
 ### 2026-07-20 - トーナメント週次調査（Tier1 + Tier2、D=20）
 
 #### JBS（Tier1）

@@ -4,6 +4,44 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-08-03 - グッズ月次調査（D=3、月初実行）
+
+#### JBS SHOP（https://backgammon.theshop.jp/）
+- WebFetch 403 → WebSearch補完
+  - **注目商品：日本代表チームユニフォーム（ピンクポロシャツ）**
+    - JBSロゴ刺繍（左胸）、ダイス＆カップ刺繍（右肩）、日の丸刺繍（左肩）
+  - **Crisloid製トーナメントボード（日本選手権ロゴ）**：深紅アタッシェケース、カスタムモデル
+  - **Von Waldenblatt トーナメントボード**（JBS公式使用ボード）継続販売
+  - Backgammon Galaxy Earthボード・eXtreme Gammon 2・書籍類 継続販売
+  - 新商品・セール情報：ユニフォーム以外の新着なし（前月比）
+
+#### Backgammon Galaxy Shop（https://shop.backgammongalaxy.com/）
+- WebSearch補完
+  - **新製品：TUMBLE Dice Tower（"Dice Vortex"）**（Oliver Squire設計）
+    - じょうご型トラクト、詰まりにくい・静音・コンパクト
+    - 底部ダイス収納付き（2組分）、2025年10月発売
+  - **Foldable Dice Tower（折りたたみ式ダイスタワー）**：携帯性重視
+  - The Earth Board・The Monte Carlo Board（各$1,250）継続販売
+  - 精度サイコロ多色展開継続
+
+#### GammonVillage（https://www.gammonvillage.com/backgammon-shop/）
+- WebSearch補完
+  - Wycliffe Brothers Masters Edition トーナメントセット：GammonVillage限定継続販売
+  - 新着情報なし（前月比）
+
+#### BGShop（https://bgshop.com/）
+- 新着情報なし（サイト稼働確認）
+
+#### Ace Point Backgammon（https://apbg.shop/）
+- WebSearch結果なし。新着情報確認不可
+
+#### その他（市場動向）
+- **Jonathan Adler**：7月30日〜8月3日にサマーセール（$200以上25%オフ）← 本日まで
+- **ArtGammon**：ハンドクラフト高級ボード継続販売（tournament quality）
+- **P-40 Backgammon**：米国産トーナメント用精度ダイス継続販売
+
+---
+
 ### 2026-07-06 - グッズ月次調査（D=6、月初実行）
 
 #### JBS SHOP（https://backgammon.theshop.jp/）

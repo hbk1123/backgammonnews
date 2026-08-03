@@ -4,6 +4,35 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-08-03 - レビュー・コミュニティ情報月次調査（D=3、月初実行）
+
+#### Reddit r/backgammon（https://www.reddit.com/r/backgammon/）
+- WebSearch補完（直接アクセス不可）
+  - 54th BGWC（モナコ、7/27〜8/2）結果を受けた議論が活発と推察
+  - WBGF London Championship（8月24〜30日）参加者募集・議論スレッド継続
+  - 具体的投稿内容の取得不可
+
+#### Backgammon Forums（https://www.backgammonforums.com/）
+- WebSearch補完
+  - BGWC 2026 モナコ結果スレッド活性化（Timo Väätäinen優勝後）
+  - WBGF World Championships 2026（ロンドン）議論継続
+  - 具体的投稿内容の取得不可
+
+#### Backgammon Galaxy YouTube（https://www.youtube.com/@BackgammonGalaxy/videos）
+- WebSearch補完
+  - Japan Open 2026 関連動画掲載確認：
+    - **JAPAN OPEN ▸ Mochy vs Oliver Squire | Main Event Round 2**（YouTube確認）
+    - **Japan Open 2026 Doubles 1st round**（YouTube確認）
+  - **Feedspot「15 Backgammon YouTubers You Must Follow in 2026」**：Backgammon Galaxy・Mochy等が上位
+  - 8月新着動画（BGWC関連）：詳細確認不可（投稿見込みあり）
+
+#### Mochy YouTube（https://www.youtube.com/@bgmochy）
+- **Japan Open 2026 試合動画**：Mochy vs Oliver Squire の対局記録あり
+- **BMAB Tournament ▸ Mochy vs Thomas Myhr**：動画確認
+- 8月新着：BGWC結果発表後の動画投稿が期待される
+
+---
+
 ### 2026-07-06 - レビュー・コミュニティ情報月次調査（D=6、月初実行）
 
 #### Reddit r/backgammon（https://www.reddit.com/r/backgammon/）

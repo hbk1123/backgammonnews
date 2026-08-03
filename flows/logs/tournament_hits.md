@@ -13,6 +13,120 @@
 
 <!-- 調査結果はここから下に追記 -->
 
+### 2026-08-03 - トーナメント週次調査（全ティア、D=3、月初）
+
+#### 【最速報】第54回バックギャモン世界選手権（BGWC）結果
+- **開催**：7月27日〜8月2日、Fairmont Monte Carlo（モナコ）
+- **優勝：Timo Väätäinen（フィンランド）** ← 世界チャンピオン就任！
+- Miranda Moulton（英）が女子世界選手権2025を制した記録あり（2025年データ）
+- 日本人選手の具体的な順位・結果：WebSearch未取得（要確認）
+- 大会はBWCMC主催・54回目
+
+#### JBS（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **バックギャモンU25合宿2026**：8月8〜11日（3泊4日）、近江屋旅館
+    - U25 JBS会員：¥40,000、U25非会員：¥43,000、一般：¥55,000
+    - 内容：基礎トレーニング（対戦・解析・振り返り）＋大会（新鋭戦U25合宿予選・合宿大会）
+  - **第15回新鋭戦**：第6回戦締切が本日（2026-08-03）
+  - 日本代表（WBIF世界オンラインチーム選手権2026）：池谷直紀cap・瀧宮悠太・市川勝規・日野雄之（前回調査確認済み）
+  - JBSトップページ（8/3時点）：7/11(土) 埼玉例会[活動報告]が最新記事
+
+#### WBIF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **WBIF世界オンラインチーム選手権2026**：8月開催予定（詳細日程未公表）、日本代表4名確定
+  - 新着大会結果なし
+
+#### IBF（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **World Longgammon Championship＋Georgian Grand Prix**（5月28日〜6月3日、トビリシ）：COMPLETED
+  - **IBF Asian Grand Prix 2026 1st Series**（3月22〜29日、タシケント）：COMPLETED
+  - 新着情報なし
+
+#### INBC（Tier1）
+- WebSearch → 新着情報なし
+
+#### sportnardy.info（Tier1）
+- WebFetch 403 → WebSearch補完
+  - **Georgian Grand Prix 2026 / World Longgammon Championship Main Event**（350名）：Julian Becker（独）優勝、Phillip Marmorstein（スイス）2位
+  - **Backgammon Masters Cup**（128名）：Lev Rosenfeld（イスラエル）優勝
+  - **1-Pointer Tournament**（128名）：Recep Kürsat Palamutoglu優勝（Zeki Gelbal #1が2位）
+  - **Asian Grand Prix 2026 Main（Longgammon）**：competition-statistics/582確認
+
+#### 日本人選手 追加WebSearch（Tier1共通）
+- **Michi Kageyama（景山美智）**：LA Tournament July 2026
+  - Speedgammon（24名）：Alex Farzan 1位、Hideaki Ueda（上田英明・日本）2位、**Michy Kageyama 3位**
+  - **UBC Regional Contender（12名）：Michihito Kageyama 1位！**（Frank Frigo 2位）
+- **Hideaki Ueda（上田英明）**：LA Tournament Speedgammon **2位**
+- **Yumi Iwago（日本）**：LA Tournament ABT Intermediates **2位**
+- **Mochy（望月裕一）**：Japan Open 2026メインイベントRound 2でOliver Squire戦の動画あり（YouTube確認）
+- Yazawa・Mizutani・Nack Ballard：今週固有の新着なし
+
+#### 今後60日以内の主要大会
+- **バックギャモンU25合宿2026**：8月8〜11日（近江屋旅館）← **来週！**
+- **WBIF世界オンラインチーム選手権2026**：8月開催予定（日程未公表）
+- **ABT Madison**：8月5〜9日（Madison, WI）← **今週末開始！**
+- **WBGF World Teams & Individual Championships**：8月24〜30日（ロンドン、Mercure Earls Court）
+- **第5回名古屋オープン**：10月31日〜11月1日（刈谷D-Square）
+
+---
+
+#### Tier2（D=3、1〜7のため実行）
+
+#### Japan Open 2026 / BACKGAMMON FESTIVAL（Tier2）
+- 5月3日〜6月5日（東京・ブライトコアホール）COMPLETED：88名参加
+- WBGF Japan Open 2026ページ確認（wbgf.info/tournament/japan-open-2026/）、結果DB登録待ち
+- YouTube：Japan Open 2026 Doubles 1st round動画あり、Mochy vs Oliver Squire Round 2動画あり
+
+#### 大阪オープン2026（Tier2）
+- 3月7〜8日（大阪市中央公会堂）COMPLETED（前回調査継続）
+
+#### UKBGF（Tier2）
+- **UK Open 2026**（5月22〜25日、Leamington Spa）：Sean Brodie 優勝 COMPLETED
+- **2026 UKBGFツアー**継続中
+- WBGF World Championships 2026（8月24〜30日、ロンドン）開催告知確認済み
+
+#### USBGF / ABT（Tier2）
+- **51st Michigan Summer Championships**（7月1〜5日、Novi, MI）：Garry Kallos（Canada）ABT Open優勝 COMPLETED
+- **LA Tournament July 2026**：日本人選手複数入賞（上記・日本人選手欄参照）
+- **ABT Madison**：8月5〜9日 ← **今週末開始！**
+- Women of Backgammon：8月11日・25日（オンライン）
+- US National Team → WBGF World Team Championships（ロンドン・8月24日〜）出場予定
+
+#### Chicago Open 2026（44th）（Tier2）
+- 5月20〜25日（Rosemont, Illinois）COMPLETED
+  - ABT Open（79名）：John O'Hagan（IN）優勝、Anthony Niakiani（CA）2位
+  - ABT Intermediate（78名）：Dan Doherty（CA）優勝
+  - Women's Championship（24名）：Marcy Kossar（MD）優勝
+
+#### WBGF（Tier2）
+- WBGF Player Ranking 2026-07-15更新・2026-07-30更新（results.wbgf.info/rank）
+- All Tournaments DB（results.wbgf.info/tmanager）稼働中
+
+#### WBA / WBF（Tier2）
+- 新着情報なし（継続監視）
+
+---
+
+#### Tier3（D=3、1〜7のため実行）
+
+#### FmGammon Calendar（Tier3）
+- WebFetch 403 → WebSearch補完
+  - サイト稼働中確認。2026年8月以降の具体的な大会情報取得不可
+
+#### Chicago Point（Tier3）
+- chicagopoint.com/results.html より2026年大会結果を確認：
+  - Georgian Grand Prix/World Longgammon Main（350名）：Julian Becker（独）優勝
+  - Backgammon Masters Cup（128名）：Lev Rosenfeld（イスラエル）優勝
+  - Saint Louis Gateway Open Open（38名）：Roberto Litzenberger（VA）優勝
+  - UBC 2026 Regional Contender Stockholm（22名）：Oliver Squire（UK）優勝
+  - Chicago Open ABT Open（79名）：John O'Hagan（IN）優勝
+
+#### WBGF結果データベース（Tier3）
+- results.wbgf.info/rank：2026-07-30更新版あり
+- results.wbgf.info/tmanager：全大会DBは稼働中
+
+---
+
 ### 2026-07-27 - トーナメント週次調査（Tier1のみ、D=27）
 
 #### JBS（Tier1）
